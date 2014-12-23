@@ -10,3 +10,5 @@
 
 ### Notes
 Simply saying, in the above table, each level up, properties of child is inherited by parent.
+
+State admin is authorized to access all level of entities
