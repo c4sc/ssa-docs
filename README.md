@@ -3,8 +3,8 @@
 
 Developers
 ---
-Preethi Shinu
-Joice Joseph
-Mohamed Rashid
-Jabir
+1. Preethi Shinu
+2. Joice Joseph
+3. Mohamed Rashid
+4. Jabir
 
