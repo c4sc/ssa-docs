@@ -1,2 +1,12 @@
 # Summary
 * [ UDISE ](udise.md)
+  * [School Particulars](school_particulars.md)
+  * [Particulars Pre-primary](particulars_preprimary.md)
+  * [Particulars Elementary](particulars_elementary.md)
+  * [Physical Facilities](physical_facilities.md)
+  * [Mid day meal](midday_meal.md)
+  * [Teachers](teachers.md)
+* [ ADISE ](adise.md)
+  * [Students](students.md)
+* [ Enrolment by Age](Enrolment_age.md)
+* [ Repeaters](repeaters.md)
