@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Revision 1419335417633
+# Revision 1419405210630
 
 CACHE:
 index.html
@@ -8,7 +8,9 @@ fund_and_staff/rmsa.html
 fund_and_staff/staff.html
 qmt/README.html
 qmt/schooll_monitoring_format.html
+qmt/screen_shots.html
 school_status/README.html
+search/README.html
 user_authorization/README.html
 user_authorization/authorization.html
 user_authorization/hierarchy.html
