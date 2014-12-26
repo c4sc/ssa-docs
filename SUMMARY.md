@@ -12,5 +12,4 @@
    * [Schooll Monitoring Format](qmt/schooll_monitoring_format.md)
    * [Screen Shots](qmt/screen_shots.md)
 * [School Status](school_status/README.md)
-* [Search](search/README.md)
 
